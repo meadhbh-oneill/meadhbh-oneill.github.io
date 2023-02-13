@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable Selection | Meadhbh O&#39;Neill</title>
+    <link>https://meadhbh-oneill.github.io/tag/variable-selection/</link>
+      <atom:link href="https://meadhbh-oneill.github.io/tag/variable-selection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Variable Selection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meadhbh-oneill.github.io/media/icon_hu213834055006ce18ccc2060c9e23c7b5_19874_512x512_fill_lanczos_center_3.png</url>
+      <title>Variable Selection</title>
+      <link>https://meadhbh-oneill.github.io/tag/variable-selection/</link>
+    </image>
+    
+    <item>
+      <title>smoothic - Variable Selection Using a Smooth Information Criterion</title>
+      <link>https://meadhbh-oneill.github.io/project/example/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://meadhbh-oneill.github.io/project/example/</guid>
+      <description>&lt;p&gt;For more information, check out the &lt;code&gt;smoothic&lt;/code&gt;
+&lt;a href=&#34;https://meadhbh-oneill.github.io/smoothic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Implementation of the SIC epsilon-telescope method, either using single or multi-parameter regression. Includes classical regression with normally distributed errors and robust regression, where the errors are from the Laplace distribution. The &amp;ldquo;smooth generalized normal distribution&amp;rdquo; is used, where the estimation of an additional shape parameter allows the user to move smoothly between both types of regression. See O&amp;rsquo;Neill and Burke (2022) &amp;ldquo;Robust Distributional Regression with Automatic Variable Selection&amp;rdquo; for more details on &lt;a href=&#34;https://arxiv.org/abs/2212.07317&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;. This package also contains the data analyses from O&amp;rsquo;Neill and Burke (2021). &amp;ldquo;Variable Selection Using a Smooth Information Criterion
+for Multi-Parameter Regression Models&amp;rdquo; on &lt;a href=&#34;https://arxiv.org/abs/2110.02643&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
