@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Meadhbh O&#39;Neill</title>
-    <link>https://meadhbh-oneill.github.io/publication/</link>
-      <atom:link href="https://meadhbh-oneill.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://meadhbh-oneill.ie/publication/</link>
+      <atom:link href="https://meadhbh-oneill.ie/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://meadhbh-oneill.github.io/media/icon_hu213834055006ce18ccc2060c9e23c7b5_19874_512x512_fill_lanczos_center_3.png</url>
+      <url>https://meadhbh-oneill.ie/media/icon_hu213834055006ce18ccc2060c9e23c7b5_19874_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://meadhbh-oneill.github.io/publication/</link>
+      <link>https://meadhbh-oneill.ie/publication/</link>
     </image>
     
     <item>
       <title>Robust Distributional Regression with Automatic Variable Selection</title>
-      <link>https://meadhbh-oneill.github.io/publication/preprint/</link>
+      <link>https://meadhbh-oneill.ie/publication/preprint/</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://meadhbh-oneill.github.io/publication/preprint/</guid>
+      <guid>https://meadhbh-oneill.ie/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable Selection Using a Smooth Information Criterion for Distributional Regression Models</title>
-      <link>https://meadhbh-oneill.github.io/publication/journal-article/</link>
+      <link>https://meadhbh-oneill.ie/publication/journal-article/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://meadhbh-oneill.github.io/publication/journal-article/</guid>
+      <guid>https://meadhbh-oneill.ie/publication/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Process Visualization of Manufacturing Execution System (MES) Data</title>
-      <link>https://meadhbh-oneill.github.io/publication/conference-paper/</link>
+      <link>https://meadhbh-oneill.ie/publication/conference-paper/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://meadhbh-oneill.github.io/publication/conference-paper/</guid>
+      <guid>https://meadhbh-oneill.ie/publication/conference-paper/</guid>
       <description></description>
     </item>
     
